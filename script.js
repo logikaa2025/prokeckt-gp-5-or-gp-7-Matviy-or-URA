@@ -1,1 +1,1 @@
-
+const SAMSUNG = "498c180298a4d4db05f255b8a217e100529d5cd8"
